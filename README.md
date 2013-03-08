@@ -1,4 +1,7 @@
 risecss
 =======
 
-a git for css on InfoTV
+A git for css on InfoTV
++ learning how to use git
+
+
